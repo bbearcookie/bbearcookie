@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm recenly interested in Frontend Development.
+I'm recenly interested in Frontend Development.  
 and also aspire to be a developer who have ability to creates a product independently.
 
 ## My Blog
