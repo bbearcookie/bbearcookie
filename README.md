@@ -26,7 +26,6 @@ https://bbearcookie.netlify.app/
 ### Backend
 ![](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Infra
 ![](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
