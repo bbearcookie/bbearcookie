@@ -1,6 +1,5 @@
 ## Hello 👋
 I'm recenly interested in Frontend Development.  
-and also aspire to be a developer who have ability to makes a product independently.
 
 ## My Blog
 https://bbearcookie.netlify.app/
