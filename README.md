@@ -13,8 +13,6 @@ https://bbearcookie.netlify.app/
 ![](https://img.shields.io/badge/Mock_Service_Worker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)  
 ![](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
 
