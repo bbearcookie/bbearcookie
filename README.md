@@ -63,6 +63,31 @@ Blog: https://bbearcookie.netlify.app/
   </tbody>
 </table>
 
+
+### Studies
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>이름</td>
+      <th>내용</td>
+      <th>기간</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/prgrms-web-devcourse/FEDC4-Next-Document-Study">Next.js 공식 문서</a></td>
+      <td>Next.js의 도입 여부를 알아보기 위해 진행했던 스터디</td>
+      <td>2023.10</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/prgrms-web-devcourse/FEDC4-React-Document-Study">React 공식 문서</a></td>
+      <td>프로젝트 시작에 앞서 React를 함께 학습하고자 진행했던 스터디</td>
+      <td>2023.08</td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 <!--
