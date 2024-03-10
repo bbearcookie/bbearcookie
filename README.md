@@ -1,7 +1,8 @@
 <div align="center">
   
 ## Hello 👋
-Blog: https://bbearcookie.netlify.app/
+📰 Blog: https://bbearcookie.netlify.app/  
+📄 Resume: https://bbearcookie.notion.site/152f4000fa684fdd9a2a7952cba44caf?pvs=4  
 
 ### Languages
 <code><img width=40 height=40 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png" alt="JavaScript" /></code>
