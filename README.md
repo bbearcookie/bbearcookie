@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hello 👋
-🌐 [Blog](https://bbearcookie.netlify.app/)  
+🌐 [Blog](https://bbearcookie.vercel.app/)  
 📄 [Resume](https://bbearcookie.notion.site/152f4000fa684fdd9a2a7952cba44caf?pvs=4)
 
 ### Languages
@@ -44,7 +44,7 @@
     <tr>
       <td>🌊 <a href="https://github.com/dnd-side-project/dnd-10th-4-frontend">내 마음 속 바다</a></td>
       <td>마음 속의 고민을 물병 편지로 흘려보내는 서비스</td>
-      <td>진행중</td>
+      <td>2024.04</td>
     </tr>
     <tr>
       <td>🐦 <a href="https://github.com/team-moabam/moabam-FE">모아밤</a></td>
