@@ -2,6 +2,7 @@
   
 ## Hello 👋
 🌐 [Blog](https://bbearcookie.vercel.app/)  
+📄 [Resume](https://bbearcookie.notion.site/25c9764bd8e24a32893425f761132b8b)  
 
 ### Languages
 <code><img width=40 height=40 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png" alt="JavaScript" /></code>
